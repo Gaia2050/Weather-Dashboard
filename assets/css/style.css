@@ -1,26 +1,26 @@
-header {
+/* header {
 text-align: center;
 background-color: #FA8BFF;
 background-image:  linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
 color: #045f79;
-}
-
+} */
+/* 
 body {
     background-image: linear-gradient(45deg, #710377 0%, #03566d 52%, #4b5f03 90%); 
-}
-
+} */
+/* 
 #searchBtn {
     border: solid;
     border: inset;
     /* border: double; */
-    border-width: 5px;
+    /* border-width: 5px;
     border-color: #f367f8da;
     color: #002535;
     background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
-    color: #045f79;
+    color: #045f79; */
 
-}
-
+/* } 
+/* 
 input {
     border: solid;
     border: inset;
@@ -28,18 +28,32 @@ input {
     border-color: #f367f8da; 
     background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
     color: #03232e;
-}
-    
+} */
+/*     
 h2 {
     text-align: center left;
     color: white;
-}
+} */
+
 
 /* .savedNav {
-    border: solid; 
-    border-width: 5px;
+    border: solid;
     border: inset;
-    border-color:  #f367f8da;
-    margin-right: 1020px;
-    margin-top: 50px;
+    border-color: #f367f8da;
+    border-width: 5px;
+    margin-right: 609px;
+    margin-top: 80px;
+    position: top right;
+}
+/*  
+.savedNav .container {
+    padding-top: -5px;
+} */
+
+/* .api div {
+    border: solid;
+    border-width: 5px;
+    border-color: #f367f8da;
+    width: 100%;
+    
 } */
